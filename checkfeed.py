@@ -1,8 +1,5 @@
 #!/usr/bin/python
 # coding: iso-8859-15
-# horriblesubs.py by Hayden Schiff (oxguy3)
-# Looks for new episodes of our favorite shows on HorribleSubs, downloads them
-# with Deluge, and renames the files for Plex-style organization.
 
 import horriblesubs as hs
 import horriblesubs_config as config
